@@ -1,0 +1,9 @@
+{
+    "name": "swac-test",
+    "version":"0.0.1",
+    "private":true,
+    "repository": false,
+    "dependencies": {
+        "swac": "0.4.x"
+    }
+}
